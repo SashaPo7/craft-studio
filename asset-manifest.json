@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/craft-studio/static/css/main.17082db3.css",
+    "main.js": "/craft-studio/static/js/main.30665397.js",
+    "static/js/787.680ef53e.chunk.js": "/craft-studio/static/js/787.680ef53e.chunk.js",
+    "static/media/projects.jpg": "/craft-studio/static/media/projects.3163c468bb4f6ad39df1.jpg",
+    "static/media/fon.png": "/craft-studio/static/media/fon.1fc6fc562291dca9ef81.png",
+    "index.html": "/craft-studio/index.html",
+    "main.17082db3.css.map": "/craft-studio/static/css/main.17082db3.css.map",
+    "main.30665397.js.map": "/craft-studio/static/js/main.30665397.js.map",
+    "787.680ef53e.chunk.js.map": "/craft-studio/static/js/787.680ef53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17082db3.css",
+    "static/js/main.30665397.js"
+  ]
+}
